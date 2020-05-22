@@ -1,0 +1,2 @@
+g_key = "YOUR GOOGLE KEY HERE"
+
